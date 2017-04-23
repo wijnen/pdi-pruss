@@ -1,4 +1,7 @@
 pdi
+data.bin
+text.bin
+vendors/
 *.o
 *.elf
 *.map
